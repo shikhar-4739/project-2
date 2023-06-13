@@ -1,0 +1,126 @@
+@media screen and (max-width: 375px){
+    .navbar{
+        flex-direction: column;
+        transition: all 0.7s ease-out;
+        height:250px ;
+        
+    }
+    .nav-list{
+        flex-direction: column;
+        
+    }
+    .first{
+        flex-direction: column-reverse ;
+    }
+    .second{
+        flex-direction: column;
+    }
+    .third{
+        flex-direction:column-reverse;
+    }
+    
+    .s-main{
+        flex-direction: column-reverse;
+    }
+    .right-1 img {
+        margin-top: 20px;
+    }
+    .left-2-1 {
+        width: 350px;
+        margin-left: 15px;
+        margin-top: 20px;
+    }
+
+    
+    .right-3-1 {
+        width: 350px;
+        margin-left: 15px;
+        margin-top: 20px;
+
+    }
+    .left-4-1 {
+        width: 350px;
+        margin-left: 15px;
+        margin-top: 20px;
+
+    }
+    .right-2-1 img{
+        margin-left: 115px;
+        margin-top: 20px;
+    }
+    .left-3-1 img {
+        margin-left: 115px;
+        margin-top: 20px;
+    }
+    .right-4-1 img{
+        margin-left: 115px;
+        margin-top: 20px;
+    }
+    .form {
+        
+        margin: 30px auto;
+        text-align: center;
+    }
+    .form input, .text-area {
+        margin: 8px 0;
+        padding: 0px 10px;
+        width: 94%;
+    }
+    .right-1 {
+        margin-top: 54px;
+        margin-left: -10px;
+    }
+    .left-1 {
+        margin-top: 60px;
+        margin-left: 20px;
+        width: 65%;
+    }
+    .contact {
+        height: 560px;
+    }
+    footer{
+        padding: 10px 0px ;
+    }
+    .logo img {
+        margin-left: -168px;
+        margin-top: 7px;
+        margin-bottom: -8px;
+    }
+    .nav-list li a {
+        font-size: 18px;
+    }
+    .nav-list li {
+        padding: 10px 44px;
+    }
+    #search {
+        padding: 1px;
+        font-size: 12px;
+    }
+    .rightnav {
+        margin-right: -45px;
+    }
+    .btn {
+        padding: 0px 3px;
+        font-size: 11px;
+    }
+
+    /* hamburger */
+
+    .burger{
+        display: block;
+    }
+    .h-nav-resp{
+        height: 53px;
+
+    }
+    .v-class-resp{
+        opacity: 0;
+    }
+
+
+
+
+
+    
+
+}
