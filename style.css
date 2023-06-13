@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+html{
+    scroll-behavior: smooth;
+}
 
 
 /* navbar */
@@ -229,7 +232,7 @@
 
 /* contact form */
 
-.contact{
+.contacts{
     background-color: rgb(194, 243, 255);
     height: 600px;
     width: 100%;
